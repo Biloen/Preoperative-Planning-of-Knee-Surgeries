@@ -1,0 +1,29 @@
+# Making sure no data is leaked onto the repo
+C:\Users\test\Desktop\P5-Knee-Surgery\methods\results
+C:/Users/test/Desktop/P5-Knee-Surgery/methods/results
+[Dd]ata
+*.csv
+*.png
+*.rar
+
+# Editor enviroments
+.[Pp]ython
+.[Ii]dea
+[Pp]yvenv.cfg
+[Vv]env
+
+# mac osx file
+*.DS_Store
+
+<<<<<<< HEAD
+*.xml
+*.iml
+=======
+# Images
+*.png
+*.PNG
+*.jpg
+*.JPG
+
+webhook.txt
+>>>>>>> main
